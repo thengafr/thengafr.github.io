@@ -2,8 +2,8 @@
 layout: null
 ---
 
-<div style="background-color:#dbeafe;min-height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;">
+<div style="background:#dbeafe;min-height:100vh;display:flex;justify-content:center;align-items:center;">
 
-![Picture](image.png)
+<img src="image.png" alt="Picture" width="400">
 
 </div>
